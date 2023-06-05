@@ -1,4 +1,4 @@
-# get_next_line - Reading Lines from File Descriptor
+# Get_next_line - Reading Lines from File Descriptor
 
 The Get Next Line project was my second project an important step in my C programming journey. 
 It involved creating a function, get_next_line(), that reads a line from a file descriptor, enabling efficient processing of text files line by line.
